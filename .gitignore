@@ -1,0 +1,47 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### Dev Environment ###
+.DS_Store
+
+## spring initializr
+mvnw*
+.mvn
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+### NPM ###
+node_modules
+node/npm.cmd
+node/npm
+/frontend/node/*
+*.map
+
+### ETC ###
+output/
+*.bundle.js
+.mvn
+*.tsv
+
+### FRONT END ###
+frontend/node
